@@ -18,11 +18,9 @@ const Browse = () => {
 
     const user = auth.currentUser || {}
     useEffect(() => {
-        console.log(profile);
         setTimeout(() => { setLoading(false) }, 3000);
     }, [profile.displayName]);
     useEffect(() => {
-        console.log(category, slides)
         setSlideRows(slides[category]);
 
     }, [profile, category]);
@@ -30,7 +28,6 @@ const Browse = () => {
         const fuse = new Fuse(slideRows, {
             keys: ['data.description', 'data.title', 'data.genre']
         })
-        //console.log("searchTerm", searchTerm)
 
         const results = fuse.search(searchTerm).map(({ item }) => item)
 

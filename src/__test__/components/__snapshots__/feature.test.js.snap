@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Feature is rendered renders as expected with data 1`] = `
+<div
+  class="sc-caiLqq jiJcIr"
+>
+  <h1
+    class="sc-iUKqMP eaeiis"
+  >
+    Unlimited films, TV progams and more.
+  </h1>
+  <h2
+    class="sc-iAKWXU jdeKRJ"
+  >
+    Watch anywhere. Cancel any time.
+  </h2>
+  <div
+    class="sc-ieecCq gTNXek"
+  >
+    <input
+      class="sc-dJjYzT dNrQmy"
+      placeholder="Email address"
+    />
+    <button
+      class="sc-dlVxhl hQnArx"
+    >
+      Try it now
+      <img
+        alt="Try Now"
+        src="/images/icons/chevron-right.png"
+      />
+    </button>
+    <div
+      class="sc-hGPBjI kJjZOY"
+    />
+    <p
+      class="sc-kfPuZi hqTxPA"
+    >
+      Ready to watch? Enter your email to create or restart your membership.
+    </p>
+  </div>
+</div>
+`;

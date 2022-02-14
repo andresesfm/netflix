@@ -23,7 +23,6 @@ const Card = ({ children, category, slideRows, ...restProps }) => {
     const [showFeature, setShowFeature] = useState(false);
     const [itemFeature, setItemFeature] = useState({});
     const [selectedGroup, setSelectedGroup] = useState(null);
-
     return <FeatureContext.Provider value={{ showFeature, setShowFeature, itemFeature, setItemFeature, setSelectedGroup, selectedGroup }}>
 
         <Group flexDirection='column'  {...restProps}>
@@ -54,7 +53,6 @@ const CItem = ({ children, item, group, ...restProps }) => {
     const { setShowFeature, setItemFeature, setSelectedGroup } = useContext(FeatureContext);
     return <Item
         onClick={() => {
-            console.log(setItemFeature, item, group);
             setItemFeature(item);
             setShowFeature(true);
             setSelectedGroup(group)
@@ -66,7 +64,6 @@ const CItem = ({ children, item, group, ...restProps }) => {
 
 const CFeature = ({ children, category, group, ...restProps }) => {
     const { showFeature, itemFeature, setShowFeature, selectedGroup } = useContext(FeatureContext);
-    console.log(group, selectedGroup);
     return (showFeature && group === selectedGroup ? <Feature
         src={`images/${category}/${itemFeature.genre}/${itemFeature.slug}/large.jpg`}
         {...restProps}>

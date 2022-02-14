@@ -1,0 +1,221 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Accordion is rendered Opens and closes items 1`] = `
+<div
+  class="sc-egiyK FvbZf"
+>
+  <div
+    class="sc-ksdxgE iJJVZh"
+  >
+    <h1
+      class="sc-hBUSln cUtMrf"
+    >
+      Frequently Asked Questions
+    </h1>
+    <div
+      class="sc-bqiRlB crgdQs"
+    >
+      <div
+        class="sc-fotOHu jPuWPm"
+      >
+        <div
+          class="sc-fFeiMQ gJsQkm"
+        >
+          What is Netflix?
+          <img
+            alt="Open"
+            src="/images/icons/add.png"
+          />
+        </div>
+      </div>
+      <div
+        class="sc-fotOHu jPuWPm"
+      >
+        <div
+          class="sc-fFeiMQ gJsQkm"
+        >
+          How much does Netflix cost?
+          <img
+            alt="Open"
+            src="/images/icons/add.png"
+          />
+        </div>
+      </div>
+      <div
+        class="sc-fotOHu jPuWPm"
+      >
+        <div
+          class="sc-fFeiMQ gJsQkm"
+        >
+          Where can I watch?
+          <img
+            alt="Open"
+            src="/images/icons/add.png"
+          />
+        </div>
+      </div>
+      <div
+        class="sc-fotOHu jPuWPm"
+      >
+        <div
+          class="sc-fFeiMQ gJsQkm"
+        >
+          How do I cancel?
+          <img
+            alt="Open"
+            src="/images/icons/add.png"
+          />
+        </div>
+      </div>
+      <div
+        class="sc-fotOHu jPuWPm"
+      >
+        <div
+          class="sc-fFeiMQ gJsQkm"
+        >
+          What can I watch on Netflix?
+          <img
+            alt="Open"
+            src="/images/icons/add.png"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-ieecCq gTNXek"
+    >
+      <input
+        class="sc-dJjYzT dNrQmy"
+        placeholder="Email address"
+      />
+      <button
+        class="sc-dlVxhl hQnArx"
+      >
+        Try it now
+        <img
+          alt="Try Now"
+          src="/images/icons/chevron-right.png"
+        />
+      </button>
+      <div
+        class="sc-hGPBjI kJjZOY"
+      />
+      <p
+        class="sc-kfPuZi hqTxPA"
+      >
+        Ready to watch? Enter your email to create or restart your membership.
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Accordion is rendered renders as expected with data 1`] = `
+<div
+  class="sc-egiyK FvbZf"
+>
+  <div
+    class="sc-ksdxgE iJJVZh"
+  >
+    <h1
+      class="sc-hBUSln cUtMrf"
+    >
+      Frequently Asked Questions
+    </h1>
+    <div
+      class="sc-bqiRlB crgdQs"
+    >
+      <div
+        class="sc-fotOHu jPuWPm"
+      >
+        <div
+          class="sc-fFeiMQ gJsQkm"
+        >
+          What is Netflix?
+          <img
+            alt="Open"
+            src="/images/icons/add.png"
+          />
+        </div>
+      </div>
+      <div
+        class="sc-fotOHu jPuWPm"
+      >
+        <div
+          class="sc-fFeiMQ gJsQkm"
+        >
+          How much does Netflix cost?
+          <img
+            alt="Open"
+            src="/images/icons/add.png"
+          />
+        </div>
+      </div>
+      <div
+        class="sc-fotOHu jPuWPm"
+      >
+        <div
+          class="sc-fFeiMQ gJsQkm"
+        >
+          Where can I watch?
+          <img
+            alt="Open"
+            src="/images/icons/add.png"
+          />
+        </div>
+      </div>
+      <div
+        class="sc-fotOHu jPuWPm"
+      >
+        <div
+          class="sc-fFeiMQ gJsQkm"
+        >
+          How do I cancel?
+          <img
+            alt="Open"
+            src="/images/icons/add.png"
+          />
+        </div>
+      </div>
+      <div
+        class="sc-fotOHu jPuWPm"
+      >
+        <div
+          class="sc-fFeiMQ gJsQkm"
+        >
+          What can I watch on Netflix?
+          <img
+            alt="Open"
+            src="/images/icons/add.png"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-ieecCq gTNXek"
+    >
+      <input
+        class="sc-dJjYzT dNrQmy"
+        placeholder="Email address"
+      />
+      <button
+        class="sc-dlVxhl hQnArx"
+      >
+        Try it now
+        <img
+          alt="Try Now"
+          src="/images/icons/chevron-right.png"
+        />
+      </button>
+      <div
+        class="sc-hGPBjI kJjZOY"
+      />
+      <p
+        class="sc-kfPuZi hqTxPA"
+      >
+        Ready to watch? Enter your email to create or restart your membership.
+      </p>
+    </div>
+  </div>
+</div>
+`;

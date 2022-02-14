@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SelectProfile is rendered renders as expected with data 1`] = `
+<div
+  class="sc-bBHxTw bnmefL"
+>
+  <a
+    href="/"
+  >
+    <img
+      alt="Netflix"
+      class="sc-cxpSdN jfoCMi"
+      src="logo.svg"
+    />
+  </a>
+</div>
+`;

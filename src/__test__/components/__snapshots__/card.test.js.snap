@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card is rendered renders as expected with data 1`] = `
+<div
+  class="sc-gGCDDS dDqyNJ"
+>
+  <div
+    class="sc-lcepkR iSLeml"
+  >
+    <p
+      class="sc-ehCJOs cMgtTG"
+    >
+      Documentaries
+    </p>
+    <div
+      class="sc-hmjpVf hzBFJu"
+    >
+      <div
+        class="sc-eLwHnm fvzfcF"
+      >
+        <img
+          class="sc-bTfYFJ fGZnIG"
+          src="/images/catt/t/sss/small.jpg"
+        />
+        <div
+          class="sc-jOxtWs gyWQCB"
+        >
+          <p
+            class="sc-clIzBv fDShBx"
+          >
+            Sponge Bob
+          </p>
+          <p
+            class="sc-faUpoM ghuxNI"
+          >
+            fun cartoon
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SignupForm is rendered renders as expected with data 1`] = `
+<div
+  class="sc-jObWnj jIQsXE"
+>
+  <h1
+    class="sc-cTAqQK cBiVuL"
+  >
+    Sign in
+  </h1>
+  <form
+    class="sc-dPiLbb jsudtk"
+  >
+    <input
+      class="sc-efQSVx bvDLtf"
+      placeholder="First Name"
+      value="myfirst"
+    />
+    <input
+      class="sc-efQSVx bvDLtf"
+      placeholder="Email address"
+      value="myemail"
+    />
+    <input
+      class="sc-efQSVx bvDLtf"
+      placeholder="Password"
+      type="password"
+      value="mypass"
+    />
+    <button
+      class="sc-hUpaCq knaUuc"
+      type="submit"
+    >
+       Sign Up
+    </button>
+  </form>
+  <p
+    class="sc-cNKqjZ eXFrZY"
+  >
+    Already have a Netflix account? 
+    <a
+      class="sc-khQegj gowPtA"
+      href="/signin"
+    >
+      Sign In
+    </a>
+  </p>
+</div>
+`;

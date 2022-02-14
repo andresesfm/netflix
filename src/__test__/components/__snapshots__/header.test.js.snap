@@ -1,0 +1,181 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header is rendered Renders BrowseHeader and toggles the search 1`] = `
+<div
+  class="sc-llYSUQ eMmjTr"
+>
+  <div
+    class="sc-bBHxTw bnmefL"
+  >
+    <div
+      class="sc-kLwhqv hjsoOO"
+    >
+      <a
+        href="/"
+      >
+        <img
+          alt="Netflix"
+          class="sc-cxpSdN jfoCMi"
+          src="logo.svg"
+        />
+      </a>
+      <p
+        class="sc-bYoBSM VoFXY"
+      >
+        Series
+      </p>
+      <p
+        class="sc-bYoBSM lgdNok"
+      >
+        Films
+      </p>
+    </div>
+    <div
+      class="sc-kLwhqv hjsoOO"
+    >
+      <div
+        class="sc-gWXbKe keGfLq"
+      >
+        <button
+          class="sc-cCcXHH icyLFi"
+        >
+          <img
+            alt="Search"
+            src="/images/icons/search.png"
+          />
+        </button>
+        <input
+          class="sc-cidDSM hVEivb"
+          placeholder="Search films and series"
+          value=""
+        />
+      </div>
+      <div
+        class="sc-hiCibw jkrfzC"
+      >
+        <button
+          class="sc-ikJyIC ikPfQA"
+          src="/images/users/5.png"
+        />
+        <div
+          class="sc-jJoQJp iVgypj"
+        >
+          <div
+            class="sc-kLwhqv hjsoOO"
+          >
+            <button
+              class="sc-ikJyIC ikPfQA"
+              src="/images/users/5.png"
+            />
+            <p
+              class="sc-bYoBSM VoFXY"
+            >
+              Andy
+            </p>
+          </div>
+          <div
+            class="sc-kLwhqv hjsoOO"
+          >
+            <p
+              class="sc-bYoBSM VoFXY"
+            >
+              Sign out
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="sc-fKVqWL sc-iJKOTD hZGtji gtkals"
+  >
+    <h2
+      class="sc-giYglK dKWYEW"
+    >
+       Watch Joker now
+    </h2>
+    <p
+      class="sc-ezbkAF dZyvsg"
+    >
+      Hello, this is a very good movie, enjoy
+    </p>
+    <button
+      class="sc-jcFjpl kAwcdw"
+    >
+      Play
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Header is rendered renders Header as expected with data 1`] = `
+<div
+  class="sc-llYSUQ eMmjTr"
+>
+  <div
+    class="sc-fKVqWL hZGtji"
+  >
+    <div
+      class="sc-bBHxTw bnmefL"
+    >
+      <a
+        href="/signin"
+      >
+        <img
+          alt="Netflix"
+          class="sc-cxpSdN jfoCMi"
+          src="logo.svg"
+        />
+      </a>
+      <a
+        class="sc-iwjdpV grsJjB"
+        href="/signin"
+      >
+        Sign In
+      </a>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Header is rendered renders ProfileHeader as expected with data 1`] = `
+<div
+  class="sc-bBHxTw bnmefL"
+>
+  <a
+    href="/"
+  >
+    <img
+      alt="Netflix"
+      class="sc-cxpSdN jfoCMi"
+      src="logo.svg"
+    />
+  </a>
+</div>
+`;
+
+exports[`Header is rendered renders as expected with no bg 1`] = `
+<div
+  class="sc-fKVqWL hZGtji"
+>
+  <div
+    class="sc-bBHxTw bnmefL"
+  >
+    <a
+      href="/signin"
+    >
+      <img
+        alt="Netflix"
+        class="sc-cxpSdN jfoCMi"
+        src="logo.svg"
+      />
+    </a>
+    <a
+      class="sc-iwjdpV grsJjB"
+      href="/signin"
+    >
+      Sign In
+    </a>
+  </div>
+</div>
+`;

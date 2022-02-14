@@ -1,0 +1,80 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Jumbotron is rendered renders Jumbotron as expected with data 1`] = `
+<div
+  class="sc-gKclnd eqiRIL"
+>
+  <div
+    class="sc-jRQBWg dauqAq"
+  >
+    <div
+      class="sc-bdvvtL kRZDPk"
+      direction="row"
+    >
+      <h1
+        class="sc-dkPtRN jJTwtt"
+      >
+        Enjoy on your TV.
+      </h1>
+      <h2
+        class="sc-hKwDye mvKWM"
+      >
+        Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.
+      </h2>
+      <img
+        alt="Tiger King on Netflix"
+        class="sc-eCImPb ffoVQe"
+        src="/images/misc/home-tv.jpg"
+      />
+    </div>
+  </div>
+  <div
+    class="sc-jRQBWg dauqAq"
+  >
+    <div
+      class="sc-bdvvtL gsPRed"
+      direction="row-reverse"
+    >
+      <h1
+        class="sc-dkPtRN jJTwtt"
+      >
+        Download your programmes to watch on the go.
+      </h1>
+      <h2
+        class="sc-hKwDye mvKWM"
+      >
+        Save your data and watch all your favourites offline.
+      </h2>
+      <img
+        alt="Watch on mobile"
+        class="sc-eCImPb ffoVQe"
+        src="/images/misc/home-mobile.jpg"
+      />
+    </div>
+  </div>
+  <div
+    class="sc-jRQBWg dauqAq"
+  >
+    <div
+      class="sc-bdvvtL kRZDPk"
+      direction="row"
+    >
+      <h1
+        class="sc-dkPtRN jJTwtt"
+      >
+        Watch everywhere.
+      </h1>
+      <h2
+        class="sc-hKwDye mvKWM"
+      >
+        Stream unlimited films and TV programmes on your phone, tablet, laptop and TV without paying more.
+      </h2>
+      <img
+        alt="Money Heist on Netflix"
+        class="sc-eCImPb ffoVQe"
+        src="/images/misc/home-imac.jpg"
+      />
+    </div>
+  </div>
+</div>
+`;

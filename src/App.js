@@ -10,7 +10,6 @@ import { useAuthLister } from './hooks';
 
 function App() {
   const { user } = useAuthLister()
-  console.log(user);
   return (
     <Router>
       <Routes>
